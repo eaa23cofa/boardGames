@@ -2,152 +2,82 @@
   "boardGames": [
     {
       "id": 1,
-      "name": "Catan",
-      "players": {
-        "min": 3,
-        "max": 4
-      },
-      "playingTime": {
-        "min": 60,
-        "max": 120
-      },
-      "genre": "Strategy",
-      "image": "https://example.com/images/catan.jpg",
-      "location": "Shelf A1"
+      "name": "Partners Duo",
+      "players": "2",
+      "duration": "45'",
+      "image": "https://www.legogide.dk/cdn/shop/files/2974129-partners-duo-01.webp?v=1694075012",
+      "location": "Shelf A5"
     },
     {
       "id": 2,
-      "name": "Ticket to Ride",
-      "players": {
-        "min": 2,
-        "max": 5
-      },
-      "playingTime": {
-        "min": 30,
-        "max": 60
-      },
-      "genre": "Family",
-      "image": "https://example.com/images/tickettoride.jpg",
-      "location": "Shelf B2"
+      "name": "Hint",
+      "players": "4-10",
+      "duration": "45'-60'",
+      "image": "https://cdn.zatu.com/wp-content/uploads/2022/01/17071039/HINT.jpg",
+      "location": "Shelf C6"
     },
     {
       "id": 3,
-      "name": "Pandemic",
-      "players": {
-        "min": 2,
-        "max": 4
-      },
-      "playingTime": {
-        "min": 45,
-        "max": 60
-      },
-      "genre": "Cooperative",
-      "image": "https://example.com/images/pandemic.jpg",
-      "location": "Shelf C3"
+      "name": "UNO",
+      "players": "3-10",
+      "duration": "15'-30'",
+      "image": "https://matraws.dk/cdn/shop/files/uno-card-game-dansk-mattel-w2087-meuse-280.webp?v=1714482665&width=750",
+      "location": "SMÅ"
     },
     {
       "id": 4,
-      "name": "Chess",
-      "players": {
-        "min": 2,
-        "max": 2
-      },
-      "playingTime": {
-        "min": 10,
-        "max": 60
-      },
-      "genre": "Strategy",
-      "image": "https://example.com/images/chess.jpg",
-      "location": "Shelf D4"
+      "name": "Town 66",
+      "players": "1-4"
+      "duration": "15'",
+      "image": "https://thegamesden.co.uk/wp-content/uploads/2022/11/town-66-board-game.webp",
+      "location": "SMÅ"
     },
     {
       "id": 5,
-      "name": "Codenames",
-      "players": {
-        "min": 2,
-        "max": 8
-      },
-      "playingTime": {
-        "min": 15,
-        "max": 30
-      },
-      "genre": "Party",
-      "image": "https://example.com/images/codenames.jpg",
-      "location": "Shelf E5"
+      "name": "The Crew",
+      "players": "3-5",
+      "duration": "10'",
+      "image": "https://store.thamesandkosmos.com/cdn/shop/products/TheCrew_3DBox.jpg?v=1667421243",
+      "location": "Shelf A4"
     },
     {
       "id": 6,
-      "name": "Carcassonne",
-      "players": {
-        "min": 2,
-        "max": 5
-      },
-      "playingTime": {
-        "min": 35,
-        "max": 45
-      },
-      "genre": "Tile-laying",
-      "image": "https://example.com/images/carcassonne.jpg",
+      "name": "Temple Rush",
+      "players": "2-4",
+      "duration": "25'",
+      "image": "https://thirstymeeples.co.uk/cdn/shop/products/TempleRush_2000x.png?v=1626448409",
       "location": "Shelf F6"
     },
     {
       "id": 7,
-      "name": "Monopoly",
-      "players": {
-        "min": 2,
-        "max": 8
-      },
-      "playingTime": {
-        "min": 60,
-        "max": 180
-      },
-      "genre": "Economic",
-      "image": "https://example.com/images/monopoly.jpg",
+      "name": "Taboo",
+      "players": "4-10",
+      "duration": "20'",
+      "image": "https://images.meesho.com/images/products/161344242/893vl_512.webp",
       "location": "Shelf G7"
     },
     {
       "id": 8,
-      "name": "The Game of Life",
-      "players": {
-        "min": 2,
-        "max": 6
-      },
-      "playingTime": {
-        "min": 60,
-        "max": 90
-      },
-      "genre": "Family",
-      "image": "https://example.com/images/gameoflife.jpg",
+      "name": "Sushi Go!",
+      "players": "2-5",
+      "duration": "15",
+      "image": "https://x.boardgamearena.net/data/gamemedia/sushigo/box/en_280.png?h=1651658850",
       "location": "Shelf H8"
     },
     {
       "id": 9,
-      "name": "Risk",
-      "players": {
-        "min": 2,
-        "max": 6
-      },
-      "playingTime": {
-        "min": 120,
-        "max": 240
-      },
-      "genre": "Strategy",
-      "image": "https://example.com/images/risk.jpg",
+      "name": "Skip Bo",
+      "players": "2-6",
+      "duration": "30'"
+      "image": "https://image-resizing.booztcdn.com/mattel-games/mgs42050_cmulticolor.webp?has_grey=1&has_webp=0&dpr=2.5&size=w400",
       "location": "Shelf I9"
     },
     {
       "id": 10,
-      "name": "Scrabble",
-      "players": {
-        "min": 2,
-        "max": 4
-      },
-      "playingTime": {
-        "min": 50,
-        "max": 90
-      },
-      "genre": "Word",
-      "image": "https://example.com/images/scrabble.jpg",
+      "name": "Sequence",
+      "players": "2-12",
+      "duration": "20'",
+      "image": "https://cdn.svc.asmodee.net/production-asmodeenordics/uploads/2022/10/Sequence_Left.png",
       "location": "Shelf J10"
     }
   ]
