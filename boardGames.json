@@ -12,8 +12,7 @@
         "max": 120
       },
       "genre": "Strategy",
-      "description": "A game of trading and building, where players collect resources to build settlements, cities, and roads to win the game.",
-      "picture": "https://example.com/images/catan.jpg",
+      "image": "https://example.com/images/catan.jpg",
       "location": "Shelf A1"
     },
     {
@@ -28,8 +27,7 @@
         "max": 60
       },
       "genre": "Family",
-      "description": "Players collect train cards and claim railway routes across the map to score points.",
-      "picture": "https://example.com/images/tickettoride.jpg",
+      "image": "https://example.com/images/tickettoride.jpg",
       "location": "Shelf B2"
     },
     {
@@ -44,8 +42,7 @@
         "max": 60
       },
       "genre": "Cooperative",
-      "description": "Players work together to stop the spread of four deadly diseases threatening the world.",
-      "picture": "https://example.com/images/pandemic.jpg",
+      "image": "https://example.com/images/pandemic.jpg",
       "location": "Shelf C3"
     },
     {
@@ -60,8 +57,7 @@
         "max": 60
       },
       "genre": "Strategy",
-      "description": "A two-player abstract strategy game where the objective is to checkmate the opponent's king.",
-      "picture": "https://example.com/images/chess.jpg",
+      "image": "https://example.com/images/chess.jpg",
       "location": "Shelf D4"
     },
     {
@@ -76,8 +72,7 @@
         "max": 30
       },
       "genre": "Party",
-      "description": "Two teams compete to identify their agents using one-word clues while avoiding the assassin.",
-      "picture": "https://example.com/images/codenames.jpg",
+      "image": "https://example.com/images/codenames.jpg",
       "location": "Shelf E5"
     },
     {
@@ -92,8 +87,7 @@
         "max": 45
       },
       "genre": "Tile-laying",
-      "description": "Players take turns placing tiles to build cities, roads, and monasteries, scoring points based on their completion.",
-      "picture": "https://example.com/images/carcassonne.jpg",
+      "image": "https://example.com/images/carcassonne.jpg",
       "location": "Shelf F6"
     },
     {
@@ -108,8 +102,7 @@
         "max": 180
       },
       "genre": "Economic",
-      "description": "Players roll dice to move around the board, buy properties, and build houses and hotels to bankrupt their opponents.",
-      "picture": "https://example.com/images/monopoly.jpg",
+      "image": "https://example.com/images/monopoly.jpg",
       "location": "Shelf G7"
     },
     {
@@ -124,8 +117,7 @@
         "max": 90
       },
       "genre": "Family",
-      "description": "Players navigate through life, making decisions on career, family, and finances, with the goal of having the most money at retirement.",
-      "picture": "https://example.com/images/gameoflife.jpg",
+      "image": "https://example.com/images/gameoflife.jpg",
       "location": "Shelf H8"
     },
     {
@@ -140,8 +132,7 @@
         "max": 240
       },
       "genre": "Strategy",
-      "description": "A world domination game where players deploy armies and engage in battles to conquer territories.",
-      "picture": "https://example.com/images/risk.jpg",
+      "image": "https://example.com/images/risk.jpg",
       "location": "Shelf I9"
     },
     {
@@ -156,8 +147,7 @@
         "max": 90
       },
       "genre": "Word",
-      "description": "Players use letter tiles to form words on a game board and score points based on the letters used.",
-      "picture": "https://example.com/images/scrabble.jpg",
+      "image": "https://example.com/images/scrabble.jpg",
       "location": "Shelf J10"
     }
   ]
